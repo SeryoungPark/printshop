@@ -1,0 +1,11 @@
+@charset "UTF-8";
+/* CSS Document */
+
+	body{
+		background-image: url("result1.png");
+		background-size: 100%;
+	}
+	
+	#printer{
+		width: 100%;
+	}

@@ -1,0 +1,27 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+
+	
+	body{
+		background-image: url(background_main.png);
+		background-size: 100%;
+	}
+	.icon_group1{
+		padding-top: 480px;
+		justify-content: center;
+		display: flex;
+	}
+	.icon_group1{
+		padding-top: 480px;
+		justify-content: center;
+		display: flex;
+	}
+	.icon{
+		width: 400px;
+		padding-top: 40px;
+		padding-bottom: 0px;
+		padding-left: 10px;
+		padding-right: 10px;
+	}

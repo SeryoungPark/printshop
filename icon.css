@@ -26,10 +26,10 @@
 	margin-left: 30px; 
 	margin-right: 30px;
 	margin-top: 20px;
-	padding-bottom: 15px;
-	padding-top: 15px;
-	padding-left: 60px;
-	padding-right: 60px;
+	-webkit-padding-bottom: 15px;
+	-webkit-padding-top: 15px;
+	-webkit-padding-left: 60px;
+	-webkit-padding-right: 60px;
 	border: 1.5px ;
 	border-radius: 25px;
 	}
@@ -45,10 +45,10 @@
 	margin-left: 30px; 
 	margin-right: 30px;
 	margin-top: 20px;
-	padding-bottom: 15px;
-	padding-top: 15px;
-	padding-left: 120px;
-	padding-right: 120px;
+	-webkit-padding-bottom: 15px;
+	-webkit-padding-top: 15px;
+	-webkit-padding-left: 120px;
+	-webkit-padding-right: 120px;
 	border: 1.5px ;
 	border-radius: 25px;
 	}

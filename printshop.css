@@ -1,0 +1,22 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+@media (min-width: 320px) and (max-width: 480px){
+	
+	body{
+		background-image: url(background_main.png);
+		background-size: 100%;
+	}
+	.icon_group{
+		padding-top: 180px;
+		justify-content: center;
+	}
+	.icon{
+		width: 160px;
+		padding-top: 40px;
+		padding-bottom: 0px;
+		padding-left: 10px;
+		padding-right: 10px;
+	}
+}
